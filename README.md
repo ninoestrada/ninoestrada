@@ -1,5 +1,5 @@
 ```console
-nestrada2@github:~$ ./welcome.sh
+ninoestrada@github:~$ ./welcome.sh
 ```
 
 ```csharp
