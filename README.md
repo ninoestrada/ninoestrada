@@ -3,7 +3,7 @@ ninoestrada@github:~$ ./welcome.sh
 ```
 
 ```csharp
-nestrada2@github
+ninoestrada@github
 -------------------------
 🏫 Education: B.S. Computer Science @USF
 🎯 Focus: Full-Stack Software Development
